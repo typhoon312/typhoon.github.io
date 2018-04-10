@@ -1,0 +1,118 @@
+@charset "utf-8";
+/* CSS Document */
+body{
+	padding:10px;
+	padding-top:0px;
+}
+.khung{
+	width:100%;
+	height:auto;
+	margin: 0px auto;
+}
+.menu{
+	width:100%;
+	height:60px;
+	background-color:#333333;
+	margin-bottom:5px;
+}
+.heading{
+	width:100%;
+	height:auto;
+	margin-bottom:5px;
+}
+.contain{
+	width:100%;
+	height:auto;
+	background-color:#3300FF;
+	margin-bottom:5px;
+}
+.main{
+	width:100%;
+	height:auto;
+	
+}
+.left{
+	width:70%;
+	height:219px;
+	float:left;
+	padding-bottom:5px;
+	background-color:#CCCCCC;
+}
+.chu1{
+	font-family:Arial, Helvetica, sans-serif;
+	color:#003300;
+	font-weight:bold;
+	padding-top:7px;
+	padding-left:10px;
+}
+.chu2{
+	font-family:Arial, Helvetica, sans-serif;
+	color:#333333;
+	padding-left:20px;
+	font-size:15px;
+}
+.right{
+	width:29.5%;
+	height:auto;
+	background-color:#CC9999;
+	float:right;
+}
+.video{
+	padding-top:5px;
+	width:100%;
+	height:auto;
+	float:left;
+}
+.border{
+	border-right:thin;
+	/*padding-left:40px;*/
+
+}
+.xemthem{
+	width:100%;
+	height:auto;
+	float:left;
+	padding-bottom:10px;
+	padding-top:5px;
+}
+.binhluan{
+	width:70%;
+	height:auto;
+	float:left;
+	padding-bottom:10px;
+}
+.anh{
+	width:29%;
+	height:200px;
+	float:right;
+}
+.footer{
+	width:100%;
+	height:60px;
+	float:left;
+	/*background-color:#666666;*/
+}
+.hinhfooter{
+	float:left;
+	width:15%;
+	height:100%;
+	display: flex;
+  	flex-direction: column;
+ 	justify-content: center;
+}
+.chufooter{
+	width:30%;
+	float:left;
+	padding-left:10px;
+	font-size:12px;
+	font-family:Arial, Helvetica, sans-serif;
+	
+}
+.chufooter1{
+	width:30%;
+	float:right;
+	text-align:right;
+	font-size:12px;
+	font-family:Arial, Helvetica, sans-serif;
+	
+}
